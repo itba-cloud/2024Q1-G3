@@ -1,0 +1,7 @@
+### MODULOS UTILIZADOS ###
+En el trabajo se utilizaron:
+    a) Un modulo hecho por nosotros para la creacion de la vpc codos subnets cada una en una AZ diferente.
+    b) Un modulo hecho por nosotros para la creacion simultanea de las 3 lambdas que vamos a utilizar en el proyecto.
+    c) En el punto anterior para la creacion de cada lambda se utiliza un modulo externo. Dicho modulo esta disponible en el link: https://registry.terraform.io/modules/terraform-aws-modules/lambda/aws/latest?tab=outputs 
+
+
